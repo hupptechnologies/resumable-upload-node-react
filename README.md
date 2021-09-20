@@ -15,13 +15,13 @@ Using Resumable upload we can start upload at the point where it's break. We don
 ##### Frontend setup
 1. Go to frontend directory.
 2. Run: npm install
-3. Run: npm start
+3. Run: npm start: ( http://localhost:3000 )
 
 
 ##### Backend setup
 1. Go to backend directory.
 2. Run: npm install
-3. Run: npm run dev
+3. Run: npm start: ( http://localhost:5000 )
 
 
 
