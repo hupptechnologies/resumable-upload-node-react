@@ -26,6 +26,3 @@ Using Resumable upload we can start upload at the point where it's break. We don
 
 
 
-NOTE: `Code is still WIP.`
-
-
